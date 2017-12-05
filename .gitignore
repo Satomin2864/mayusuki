@@ -1,0 +1,5 @@
+*.csv
+setting.py
+mecab/*
+.DS_Store
+__pycache__
